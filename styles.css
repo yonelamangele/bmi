@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+
+.them {
+    align-items: center;
+    justify-content: center;
+    display: grid;
+}
+ 
